@@ -13,7 +13,7 @@ Software Developer and Cyber Security Analyst
 <a href="https://www.twitter.com/rzathere" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/rzathere?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/rzathere" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/rzathere?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitch.tv/rzathere" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/rzathere?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.instagram.com/rzathere" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/rzathere?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 
 ### Skills
