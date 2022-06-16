@@ -57,3 +57,6 @@ src="https://img.shields.io/github/followers/rzathere?logo=github&style=for-the-
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/rzathere"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=khansalikaziz&label=Profile%20views&color=0e75b6&style=flat" alt="rzathere" /> </p>
+
