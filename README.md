@@ -4,8 +4,8 @@ Hi 👋 My name is RZA
 Software Developer and Cyber Security Analyst
 ---------------------------------------------
  
-* 🌍  I'm based in Siwan
-* 🖥️  See my portfolio at [Instagram](http://instagram.com/rzathere)
+* 🌍  I'm based in Jalandhar
+* 🖥️  See my portfolio at [Instagram](http://instagram.com/rzathere)
 * ✉️  You can contact me at [Max.romance56@gmail.com](mailto:Max.romance56@gmail.com)
 * 🧠  I'm learning at Lovely Professional University
 * 🤝  I'm open to collaborating on iOS, Web Dev, Game Dev, Android Dev & Cyber Security
