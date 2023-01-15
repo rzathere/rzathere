@@ -1,4 +1,4 @@
-Hi 👋 My name is RZA
+Hi 👋 My name is Ganpati
 ====================
 
 Software Developer and Cyber Security Analyst
