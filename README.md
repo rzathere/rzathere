@@ -5,8 +5,8 @@ Software Developer and Cyber Security Analyst
 ---------------------------------------------
 
 * 🌍  I'm based in Jalandhar
-* 🖥️  See my portfolio at [Instagram](http://instagram.com/rzathere)
-* ✉️  You can contact me at [Max.romance56@gmail.com](mailto:Max.romance56@gmail.com)
+* 🖥️  See my portfolio at [Instagram](https://www.instagram.com/desirockstar7/)
+* ✉️  You can contact me at [ganpatinath07@gmail.com](ganpatinath07.com)
 * 🧠  I'm learning at Lovely Professional University
 * 🤝  I'm open to collaborating on iOS, Web Dev, Game Dev, Android Dev & Cyber Security
 
