@@ -1,12 +1,12 @@
-Hi 👋 My name is RZA
+Hi 👋 My name is Ganpati
 ====================
 
 Software Developer and Cyber Security Analyst
 ---------------------------------------------
 
 * 🌍  I'm based in Jalandhar
-* 🖥️  See my portfolio at [Instagram](http://instagram.com/rzathere)
-* ✉️  You can contact me at [Max.romance56@gmail.com](mailto:Max.romance56@gmail.com)
+* 🖥️  See my portfolio at [Instagram](https://www.instagram.com/desirockstar7/)
+* ✉️  You can contact me at [ganpatinath07@gmail.com](ganpatinath07.com)
 * 🧠  I'm learning at Lovely Professional University
 * 🤝  I'm open to collaborating on iOS, Web Dev, Game Dev, Android Dev & Cyber Security
 
@@ -60,3 +60,4 @@ src="https://img.shields.io/github/followers/rzathere?logo=github&style=for-the-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rzathere&label=Profile%20views&color=0e75b6&style=flat" alt="rzathere" /> </p>
 
+- demo
