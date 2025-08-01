@@ -1,14 +1,14 @@
-Hi 👋 My name is RZA
+Hi 👋 My name is Masoom Raza
 ====================
 
-Software Developer and Cyber Security Analyst
+Cyber Security Scholar
 ---------------------------------------------
 
-* 🌍  I'm based in Jalandhar
-* 🖥️  See my portfolio at [Instagram](http://instagram.com/rzathere)
-* ✉️  You can contact me at [Max.romance56@gmail.com](mailto:Max.romance56@gmail.com)
-* 🧠  I'm learning at Lovely Professional University
-* 🤝  I'm open to collaborating on iOS, Web Dev, Game Dev, Android Dev & Cyber Security
+* 🌍  I'm based in Delhi
+* 🖥️  See my portfolio at [Linkedin](https://www.linkedin.com/in/rzathere/)
+* ✉️  You can contact me at [masoom_25s09res21@iitp.ac.in](mailto:masoom_25s09res21@iitp.ac.in)
+* 🧠  I'm M.Tech Scholar at Indian Institute of Technology, Patna
+* 🤝  I'm open to collaborating on Game Dev & Cyber Security
 
 <a href="https://www.twitter.com/rzathere" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/rzathere?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
