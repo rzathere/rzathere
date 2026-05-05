@@ -1,48 +1,63 @@
 # Hi 👋 I'm Masoom Raza
 
-### 🛡️ AI x Cybersecurity Researcher | M.Tech @ IIT Patna
+### 🛡️ AI x Cybersecurity Researcher | M.Tech @ IIT Patna | ISRO (ISTRAC) | Ex-I4C (MHA)
 
-I work at the intersection of **Artificial Intelligence and Cybersecurity**, building intelligent, adaptive, and scalable defense systems for real-world security challenges.
+I build **intelligent, adaptive cyber defense systems** using Artificial Intelligence, with a focus on securing large-scale and critical infrastructure.
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 M.Tech in Computer Science @ IIT Patna (CPI: 9.63)
-- 🔬 Researching **AI-driven Cyber Defense, Adversarial ML, and Threat Intelligence**
-- 🛰️ Worked on **Satellite Cybersecurity** at ISRO (ISTRAC)
-- 🏛️ Contributed to **National Cyber Threat Analysis** @ Indian Cyber Crime Coordination Centre (MHA)
-- 🤖 Built ML-based Intrusion Detection Systems with **99%+ accuracy**
-- 🎯 Goal: Pursue PhD in **Autonomous Cyber Defense Systems**
+- 🎓 M.Tech in Computer Science @ IIT Patna (CPI: 9.63/10)
+- 🛰️ Research Intern @ ISRO (ISTRAC) — Satellite Cybersecurity
+- 🏛️ Former R&D Intern @ Indian Cyber Crime Coordination Centre (MHA, Govt. of India)
+- 🧠 Focus: **AI for Cyber Defense, Adversarial ML, Autonomous Security Systems**
+- 📄 Research paper accepted at **ICISS 2026 (Springer)**  
+- 🎯 Long-term goal: PhD in **Autonomous & Intelligent Cyber Defense**
 
 ---
 
-## 🧠 Research Interests
+## 🧠 Research Focus
 
 - Adversarial Machine Learning  
-- Reinforcement Learning for Security  
-- Intrusion Detection Systems (IDS)  
-- AI for Security Operations (SOC Automation)  
-- Threat Intelligence & Cyber Analytics  
+- Reinforcement Learning for Cyber Defense  
+- AI-driven Intrusion Detection Systems  
+- Security Analytics & SIEM (ELK Stack)  
+- Threat Intelligence & Attack Simulation  
 
 ---
 
-## 🔬 Featured Work
+## 🔬 Research & Experience
 
-### 🛰️ Satellite Anomaly Detection (ISRO)
-- Designed unsupervised anomaly detection for satellite telemetry  
-- Behavioral baselining across network, system & firewall logs  
-- Exploring ELK-based real-time security analytics  
+### 🛰️ ISRO — Satellite Security (ISTRAC)
+- Designing **unsupervised anomaly detection** for satellite telemetry  
+- Modeling behavior across network, system, firewall, and process logs  
+- Exploring **ELK-based real-time security monitoring pipelines**  
+- Focus: scalable, explainable security for critical space infrastructure  
 
-### 🛡️ ML-SQLGuard (IIIT Naya Raipur)
-- Hybrid ML model (DT + SVM + MLP) for SQL Injection detection  
+### 🏛️ Indian Cyber Crime Coordination Centre (MHA)
+- Worked on **national-level cyber threat analysis & intelligence workflows**  
+- Exposure to digital forensics, cybercrime classification, and secure investigation systems  
+
+### 🧪 IIIT Naya Raipur — ML-SQLGuard
+- Built hybrid ML system (DT + SVM + MLP) for SQL injection detection  
 - Achieved **~99% accuracy**  
-- Integrated adversarial payload generation (GAN-based)  
-- Built REST API for real-time deployment  
+- Applied **GAN-based adversarial augmentation**  
+- Deployed via REST API for real-time protection  
+
+---
+
+## 🧩 Key Projects
+
+### 🔴 Adversarial Deep RL for Autonomous Red Teaming *(Ongoing)*
+- Simulating attacker–defender interactions using reinforcement learning  
+- Goal: predictive cyber-attack modeling & autonomous defense  
+
+### 🛰️ Satellite Behavioral Anomaly Detection
+- Detecting unknown threats in large-scale telemetry using unsupervised ML  
 
 ### 🔍 ForensicLink
-- Intelligent digital forensic analysis platform  
-- Correlates multi-source evidence for investigation insights  
+- Multi-source digital evidence analysis platform for law enforcement  
 
 ---
 
@@ -51,26 +66,26 @@ I work at the intersection of **Artificial Intelligence and Cybersecurity**, bui
 **Languages:**  
 Python • Java • C  
 
-**Cybersecurity:**  
-Network Security • IDS/IPS • Wireshark • Burp Suite  
-
 **AI/ML:**  
-PyTorch • TensorFlow • Scikit-learn  
+PyTorch • TensorFlow • Scikit-learn • Reinforcement Learning  
 
-**Tools & Systems:**  
+**Cybersecurity:**  
+Network Security • IDS/IPS • Ethical Hacking • Burp Suite • Wireshark  
+
+**Systems & Tools:**  
 Linux • AWS • ELK Stack • Git  
 
 ---
 
-## 📈 What I'm Currently Working On
+## 📊 What I Care About
 
-- AI-assisted SOC automation  
-- Scalable anomaly detection systems  
-- Adversarial robustness in security models  
+- Moving from **reactive security → autonomous defense systems**
+- Making AI-based security **explainable & production-ready**
+- Building systems that **detect unknown (zero-day) threats**
 
 ---
 
-## 📫 Connect With Me
+## 📫 Connect
 
 - 🔗 LinkedIn: https://www.linkedin.com/in/rzathere  
 - 💻 GitHub: https://github.com/rzathere  
@@ -78,8 +93,8 @@ Linux • AWS • ELK Stack • Git
 
 ---
 
-## ⚡ Fun Fact
+## ⚡ Philosophy
 
-I’m interested in building **self-defending systems** — where security is not reactive, but autonomous and intelligent.
+> “Security shouldn’t just detect attacks — it should anticipate, adapt, and defend autonomously.”
 
 ---
