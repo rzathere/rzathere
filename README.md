@@ -1,91 +1,115 @@
-# Hi 👋 I'm Masoom Raza
+# 🛡️ Masoom Raza  
+### AI x Cybersecurity Researcher | IIT Patna | ISRO | Ex-I4C (MHA)
 
-### 🛡️ AI x Cybersecurity Researcher | M.Tech @ IIT Patna | ISRO (ISTRAC) | Ex-I4C (MHA)
-
-I build **intelligent, adaptive cyber defense systems** using Artificial Intelligence, with a focus on securing large-scale and critical infrastructure.
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=rzathere&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 M.Tech in Computer Science @ IIT Patna (CPI: 9.63/10)
-- 🛰️ Research Intern @ ISRO (ISTRAC) — Satellite Cybersecurity
-- 🏛️ Former R&D Intern @ Indian Cyber Crime Coordination Centre (MHA, Govt. of India)
-- 🧠 Focus: **AI for Cyber Defense, Adversarial ML, Autonomous Security Systems**
-- 📄 Research paper accepted at **ICISS 2026 (Springer)**  
-- 🎯 Long-term goal: PhD in **Autonomous & Intelligent Cyber Defense**
+I design **intelligent, adaptive cyber defense systems** at the intersection of AI and cybersecurity—focused on securing **critical infrastructure and large-scale systems**.
+
+- 🎓 M.Tech CSE @ IIT Patna (CPI: 9.63/10)  
+- 🛰️ Research Intern @ ISRO (ISTRAC) — Satellite Cybersecurity  
+- 🏛️ Former R&D Intern @ I4C (MHA, Govt. of India)  
+- 📄 Paper accepted @ **ICISS 2026 (Springer)**  
+- 🎯 Goal: PhD in **Autonomous Cyber Defense Systems**
 
 ---
 
-## 🧠 Research Focus
+## 🧠 Research Vision
+
+> Building systems that don’t just detect attacks —  
+> but **anticipate, adapt, and defend autonomously**
+
+---
+
+## 🔬 Research Domains
 
 - Adversarial Machine Learning  
-- Reinforcement Learning for Cyber Defense  
+- Reinforcement Learning for Security  
 - AI-driven Intrusion Detection Systems  
-- Security Analytics & SIEM (ELK Stack)  
 - Threat Intelligence & Attack Simulation  
+- Cloud & Distributed System Security  
 
 ---
 
-## 🔬 Research & Experience
+## 🛰️ Current Work (ISRO)
 
-### 🛰️ ISRO — Satellite Security (ISTRAC)
-- Designing **unsupervised anomaly detection** for satellite telemetry  
-- Modeling behavior across network, system, firewall, and process logs  
-- Exploring **ELK-based real-time security monitoring pipelines**  
-- Focus: scalable, explainable security for critical space infrastructure  
-
-### 🏛️ Indian Cyber Crime Coordination Centre (MHA)
-- Worked on **national-level cyber threat analysis & intelligence workflows**  
-- Exposure to digital forensics, cybercrime classification, and secure investigation systems  
-
-### 🧪 IIIT Naya Raipur — ML-SQLGuard
-- Built hybrid ML system (DT + SVM + MLP) for SQL injection detection  
-- Achieved **~99% accuracy**  
-- Applied **GAN-based adversarial augmentation**  
-- Deployed via REST API for real-time protection  
+- Unsupervised anomaly detection for satellite telemetry  
+- Behavioral modeling across multi-source logs  
+- ELK-based real-time security analytics  
+- Focus: **scalable, explainable cyber defense for space systems**
 
 ---
 
-## 🧩 Key Projects
+## 🧪 Research Projects
 
-### 🔴 Adversarial Deep RL for Autonomous Red Teaming *(Ongoing)*
-- Simulating attacker–defender interactions using reinforcement learning  
-- Goal: predictive cyber-attack modeling & autonomous defense  
+### 🔴 Adversarial RL for Autonomous Red Teaming *(Ongoing)*
+- RL-based attacker–defender simulation  
+- Predictive cyber-attack modeling  
 
-### 🛰️ Satellite Behavioral Anomaly Detection
-- Detecting unknown threats in large-scale telemetry using unsupervised ML  
+### 🛡️ ML-SQLGuard
+- Hybrid ML model (DT + SVM + MLP)  
+- **~99% SQLi detection accuracy**  
+- GAN-based adversarial augmentation  
+- Real-time REST API deployment  
 
 ### 🔍 ForensicLink
-- Multi-source digital evidence analysis platform for law enforcement  
+- AI-powered digital forensic analysis platform  
+- Multi-source correlation for investigation  
+
+---
+
+## 📄 Publications
+
+- **Hybrid ML Framework for SQL Injection Detection** *(ICISS 2026 — Springer)*  
+- *Review of Cloud Computing for Healthcare* (JETIR, 2024)
 
 ---
 
 ## ⚙️ Tech Stack
 
-**Languages:**  
-Python • Java • C  
-
-**AI/ML:**  
-PyTorch • TensorFlow • Scikit-learn • Reinforcement Learning  
-
-**Cybersecurity:**  
-Network Security • IDS/IPS • Ethical Hacking • Burp Suite • Wireshark  
-
-**Systems & Tools:**  
-Linux • AWS • ELK Stack • Git  
+**Languages:** Python • Java • C  
+**AI/ML:** PyTorch • TensorFlow • RL • LLMs  
+**Cybersecurity:** IDS • VAPT • Burp Suite • Wireshark  
+**Infra:** Linux • AWS • ELK Stack • Git  
 
 ---
 
-## 📊 What I Care About
+## 📊 GitHub Analytics
 
-- Moving from **reactive security → autonomous defense systems**
-- Making AI-based security **explainable & production-ready**
-- Building systems that **detect unknown (zero-day) threats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rzathere&show_icons=true&theme=transparent" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rzathere&theme=transparent" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rzathere&layout=compact&theme=transparent" />
+</p>
 
 ---
 
-## 📫 Connect
+## 🧩 Research Metrics (Self-Tracked)
+
+- 🛰️ Critical Infrastructure Domain Experience: **ISRO + MHA**
+- 🧠 ML Models Built: **10+**
+- 📊 Detection Accuracy Achieved: **Up to 99%**
+- 🔬 Active Research Areas: **3 (RL, Adversarial ML, IDS)**
+
+---
+
+## ⚡ What I'm Building Toward
+
+- Autonomous SOC systems  
+- Self-healing infrastructure security  
+- AI-driven zero-day threat detection  
+
+---
+
+## 🤝 Connect
 
 - 🔗 LinkedIn: https://www.linkedin.com/in/rzathere  
 - 💻 GitHub: https://github.com/rzathere  
@@ -93,8 +117,9 @@ Linux • AWS • ELK Stack • Git
 
 ---
 
-## ⚡ Philosophy
+## 🧭 Philosophy
 
-> “Security shouldn’t just detect attacks — it should anticipate, adapt, and defend autonomously.”
+> “The future of cybersecurity is not human vs attacker —  
+> it’s **AI vs attacker, in real-time.**”
 
 ---
